@@ -1,2 +1,2 @@
-# Pure css bycykle animation
+# Pure css bycycle animation
  Animation
